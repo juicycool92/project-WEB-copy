@@ -1,0 +1,246 @@
+@charset "euc-kr";
+@import url(layout.css);
+@import url(NanumGothic.css);
+
+
+/* Defalut Definition */
+* {padding:0; margin:0; }
+html, body { margin:0; padding:0; font-family:Dotum;}
+
+body { background-color:#fff; background-image:url('http://www.orionworld.com/images/common/bg_body_l.gif'); background-position:top; background-repeat:repeat-x; position:relative; width:100%;}
+.hidden{display:none;}
+
+html {font-size:0.75em; color:#737375; }
+fieldset, img {border:none; }
+ul, ol {list-style:none; }
+hr {display:none; }
+table {border-collapse:collapse; }
+
+/* Form Style */
+input,
+select {vertical-align:middle; font-family:Dotum; color:#737375; }
+input.textType {height:13px; background:#f8f8f8; border:1px solid #e0e0e0; padding:2px; }
+textarea {background:#f8f8f8; border:1px solid #e0e0e0; font-family:Dotum; color:#737375; }
+select {background:#f8f8f8; border:1px solid #d7d7d7; }
+
+/* Link Style */
+a:link, a:visited {color: #737375; text-decoration:none;}
+a:active, a:hover {color: #737375; text-decoration:underline; }
+
+/* Common Style */
+.invisible {visibility:hidden; position:absolute; left:-10000px; top:0; height:0 !important; font-size:0 !important; line-height:0 !important; }
+caption, legend {display:none; }
+
+/* Paging */
+.paging {width:100%; text-align:center; clear:both; font-family:Verdana; font-size:0.92em;  padding-top:19px; } 
+.paging strong {color:#e21321; }
+.paging img {vertical-align:middle; }
+.paging a{width:40px;}
+.paging a.first {margin-right:-13px; }
+.paging a.end {margin-left:-13px; }
+
+/* Botton Btns */
+.bottomBtns {width:100%; overflow:hidden; margin-top:25px; }
+.bottomBtns select,
+.bottomBtns img,
+.bottomBtns input {vertical-align:middle; }
+.bottomBtns .btnLeft {width:50%; float:left; text-align:left; }
+.bottomBtns .btnRight {width:50%; float:right; text-align:right; }
+.bottomBtns .btnCenter {text-align:center; }
+
+.bottomBtns select {background:#ffffff; }
+.bottomBtns input.textType {background:#ffffff; border:1px solid #e0e0e0; }
+
+/* Border Wrapper */
+.borderWrapper {width:100%; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; padding:9px 0 6px 0; }
+
+/* Heading Style */
+h4.type01 {width:100%; padding-bottom:15px; }
+h5.type01 {width:100%; background:url(/images/bullet/cir01.gif) no-repeat left 4px; padding-left:13px; margin-bottom:7px; }
+
+/* Margin Style */
+.mb10 {margin-bottom:10px !important; }
+.mb40 {margin-bottom:40px !important; }
+.mb45 {margin-bottom:45px !important; }
+.mb24 {margin-bottom:24px !important; }
+.mt00 {margin-top:0 !important; }
+.mt40 {margin-top:40px !important; }
+.mb00 {margin-bottom:0 !important; }
+
+/* Padding Style */
+.pb00 {padding-bottom:0 !important; }
+
+/* Sub Tab Menu */
+.subTabMenu {width:100%; height:24px; background:url(/images/common/bg_sub_tab.gif) repeat-x left bottom; }
+.subTabMenu img {vertical-align:top; }
+.subTabMenu ul {width:100%; height:24px; }
+.subTabMenu ul li {float:left; }
+
+
+/* Sub Tab Menu 20170417 */
+.subTabMenu02 {width:100%; height:24px;}
+.subTabMenu02 img {vertical-align:top; }
+.subTabMenu02 ul {width:100%; height:24px; }
+.subTabMenu02 ul li {float:left; }
+
+
+
+/* view CF */
+.viewCFWrap {width:100%; overflow:hidden; }
+.viewCFWrap .CFvideo {float:left; }
+.viewCFWrap .CFInfo {width:243px; float:right; }
+.viewCFWrap .CFInfo h4 {margin-bottom:18px; }
+.viewCFWrap .CFInfo ul li {width:100%; float:left; margin-bottom:7px; }
+.viewCFWrap .CFInfo ul li img {float:left; }
+.viewCFWrap .CFInfo p {clear:both; margin-top:18px; }
+.viewCFWrap .viewCFYear {width:100%; }
+.viewCFYear ul.vewYearList {width:100%; margin-top:56px; overflow:hidden; }
+.viewCFYear ul.vewYearList li {background:url(/images/dr_you/bg_view_year_list.gif) no-repeat right 2px; float:left; padding-right:8px; margin-right:7px; }
+.viewCFYear ul.vewYearList li.end {background:none; }
+.viewCFYear ul.vewYearList li img {float:left; }
+.viewCFYear .CFListWrap {width:100%; position:relative; border-top:1px solid #cccccc; margin-top:9px; }
+.viewCFYear .CFListWrap a.viewBefore {position:absolute; left:0; top:71px; }
+.viewCFYear .CFListWrap a.viewNext {position:absolute; right:0; top:71px; }
+.viewCFYear .CFList {width:600px; padding-top:30px; margin-left:38px; position:relative; overflow:hidden; }
+.viewCFYear .CFList dl {width:135px; float:left; margin-right:15px;yy }
+.viewCFYear .CFList dl dt img {display:block; border:1px solid #888888; }
+.viewCFYear .CFList dl dd {padding-top:6px; text-align:center; font-weight:bold; color:#666666; } 
+
+/* Wall Paper &gt; Screen Saver */
+.wallPaperScreenSaver h4 {margin-bottom:18px; clear:both; }
+.screenSaver {width:100%; border-bottom:1px solid #cccccc; padding-bottom:50px; overflow:hidden; }
+.screenSaver img {vertical-align:top; }
+.screenSaver .imgBig {width:326px; height:253px; background:url(/images/marketO/bg_saver_big.gif) no-repeat left top; float:left; }
+.screenSaver .imgBig img {margin:14px 0 0 12px; }
+.screenSaver .saverSide {width:288px; float:right; display:inline; margin-right:8px; }
+.screenSaver .saverSide dl {margin-top:6px; }
+.screenSaver .saverSide dl dt {margin-bottom:9px; }
+.screenSaver .saverSide dl dd {margin-bottom:16px; }
+.screenSaver .saverSide .viewSaverList {width:100%; margin-top:92px; overflow:hidden; position:relative; }
+.screenSaver .saverSide .viewSaverList a.viewBefore {position:absolute; left:0; top:18px; }
+.screenSaver .saverSide .viewSaverList a.viewNext {position:absolute; right:0; top:18px; }
+.screenSaver .saverSide .viewSaverList ul {overflow:hidden; margin-left:30px; }
+.screenSaver .saverSide .viewSaverList ul li {float:left; margin-right:15px; display:inline; }
+.screenSaver .saverSide .viewSaverList ul li img {border:1px solid #929292; }
+.wallPaper {width:100%; margin-top:40px; }
+.wallPaper .wallPaperList {overflow:hidden; }
+.wallPaper .wallPaperList dl {width:202px; float:left; margin:0 24px 40px 0; }
+.wallPaper .wallPaperList dl.end {margin-right:0; }
+.wallPaper .wallPaperList dl img {vertical-align:top; }
+.wallPaper .wallPaperList dl dt {width:100%; height:154px; background:url(/images/marketO/bg_wall_paper_list.gif) no-repeat left top; }
+.wallPaper .wallPaperList dl dt img {margin:8px 0 0 10px; }
+.wallPaper .wallPaperList dl dd {padding-top:7px; }
+.wallPaper .wallPaperList dl dd img {margin:0 1px 1px 0; }
+
+
+/* search list */
+.searchList {width:100%; text-align:right; margin:40px 0 16px 0; }
+.searchList input.textType,
+.searchList select {background:#ffffff; }
+.searchList input.textType {height:15px; }
+.searchList input,
+.searchList select,
+.searchList img {vertical-align:middle; }
+
+/* */
+.voc_wrap{}
+.voc_wrap p.voc_f{padding-top:25px; border-bottom:1px solid red;}
+
+/* defined by DH.Shin */
+.p_padding {line-height:150%;}
+.p_padding p{padding-top:5px; padding-bottom:5px;}
+
+
+/* skip navigation */
+.skiplist {position:relative;z-index:9999;margin:0; padding:0;}
+.skip {display:none; font-family:"�뗭�", dotum; text-align:left; margin:0; padding:0; position:fixed;} /*All incl Opera*/
+/* * html */ .skip {display:block} /*Seen by IE*/
+:root .skip {display:block} /*Seen by Moz, FF and Safari*/
+.skip a {padding:0 0.5em; display:inline; z-index:1000; text-decoration:none; position:absolute; width:14em; left:-200em;}
+.skip a:focus, .skip a:active {position:fixed; left:0; padding:10px;color:#fff; background:red;}
+.skip a:hover {cursor:default}
+/* //skip navigation */
+#page_wrap{width:100%; min-width:1024px;}
+.fpage{position:relative; overflow-x:hidden; }
+.twom ul.tm{width:90px; margin:10px auto 0 auto;}
+li.onem a.oda{display:inline-block; position:relative; z-index:1;}
+.gnb_wrap ul.topm{}
+.gnb_wrap ul.topm li.onem{float:left; display:inline-block; position:relative; z-index:2;}
+.top_in:after,.stop_in:after{display:block; content:''; clear:both;}
+.gnb_wrap{min-height:100px; width:1000px; display:inline-block; }
+.top_wrap h1.top_logo{display:inline-block;}
+.gnb_wrap .twom{z-index:10; background:url("images/common/two_bg2.png") no-repeat center top; width:340px; height:238px; position:absolute;left:-120px; z-index:6; display:none;}
+.twom ul.tm{width:90px; margin:0 auto; padding:10px 0 0 0;}
+.util_wrap{position: absolute; display: inline-block; font-family: verdana; font-size: 10px; top: 23px; right: -20px;}
+.util_wrap ul.util{float:right;}
+.util_wrap ul.util li{float:left; display:inline-block;}
+.util_wrap ul.util li a{padding:0 5px;}
+
+/*footer*/
+.footer_w{background:url(http://www.orionworld.com/images/common/f_bgb.pngg") repeat-x left top;position:relative; top:-16px; padding:30px 0 0 0; clear:both;}
+.footer_w .footer_in{border-top:3px solid #ed1b29;}
+.footer_w .footer{margin:0 auto; position:relative; }
+.footer_w ul.botm{display:inline-block; margin:15px 0 5px 0;}
+.footer_w ul.botm li{float:left; display:inline-block; padding:0 20px 0 0; background:url(http://www.orionworld.com/images/common/botm_line.pngg") no-repeat right 1px;}
+.footer_w address{clear:both; padding:0 0 3px 0;}
+.footer_w p.ietxt{padding:0 0 3px 0;}
+.footer_w p.copytxt{padding:0 0 3px 0;}
+.footer_w address{}
+.footer_w .flogo{position:absolute; top:10px; right:0px;}
+
+/* main */
+.top_wrap{width:100%;background:url(http://www.orionworld.com/images/common/mtop_bg.png") repeat-x left top;}
+.top_in{width:930px; margin:0 auto; position:relative; text-align:center;}
+*:first-child+html .top_wrap .gnb_wrap{padding:20px 0 0 0;}
+.top_wrap .gnb_wrap{padding:17px 0 0 0;}
+.top_wrap h1.top_logo{padding:17px 0 0 0;}
+.top_wrap .gnb_wrap .twom{top:46px;}
+
+
+
+/* sub */
+.stop_wrap{width:100%;background:url(http://www.orionworld.com/images/common/top_bg.pngg") repeat-x left top;z-index:5; position:relative;}
+.stop_in{width:965px; margin:0 auto; position:relative;}
+.stop_wrap h1.top_logo{float:left; display:inline-block; padding:17px 0 0 0;}
+.stop_wrap .gnb_wrap{padding:36px 0 0 0;width:755px; float:right;}
+.stop_wrap .gnb_wrap .twom{top:35px;}
+
+.smid_wrap{width:965px; margin:0 auto; position:relative; padding:0 0 60px 0; z-index:3;}
+
+.subTitleArea {height:45px !important; margin-bottom:0 !important; position:relative;} 
+.subTitleArea h3 {background-image:none !important; padding-top:9px !important; }
+.subTitleArea .location {top:24px !important; position:absolute; right:0px;}
+
+
+/* 20130422 추가 */
+#subSide{float:right;}
+#snb_wrap{width:100px; padding:1px 0 0;}
+#snb_wrap .snb_in{background:url("http://www.orionworld.com/images/common/left_bottom_bg.png") no-repeat bottom; padding:0 0 14px; height:100%}
+#snb_wrap .snb_in .nav_wrap{background:url("http://www.orionworld.com/images/common/left_bg.png") repeat-y; padding:10px 18px 12px 4px;}
+#snb_wrap .snb_in .nav_wrap .nav li{border-bottom:1px solid #e7e3de; padding:10px 0 6px;}
+#snb_wrap .snb_in .nav_wrap .nav li.sub{border:0;}
+#snb_wrap .snb_in .nav_wrap .nav li.sub ul{margin:8px 0 0;}
+#snb_wrap .snb_in .nav_wrap .nav li.sub ul li{border:0; min-height:20px; padding:0 0 0 8px;}
+#snb_wrap .snb_in .nav_wrap .nav li.sub span{display:block; border-bottom:1px solid #e7e3de; padding:0 0 4px;}
+
+#subContents{float:right; width:660px;}
+
+/* 20130430 추가 */
+.new_tab_wrap{background:url(http://www.orionworld.com/images/tab/tab_bg.pngg") repeat-x left top; width:100%; height:24px;}
+.new_tab_wrap:after{display:block; content:''; clear:both;}
+.new_tab_wrap ul.new_tab{position:relative; left:4px}
+.new_tab_wrap ul.new_tab li{float:left; display:inline-block;}
+.new_tab_wrap ul.new_tab li img{margin:0 -8px; position:relative; z-index:1;}
+.new_tab_wrap ul.new_tab li:first-child img{margin:0 -8px 0 -2px;}
+.new_tab_wrap ul.new_tab li.fst img{margin:0 -8px 0 -2px;}
+.new_tab_wrap ul.new_tab li img.over{position:relative; z-index:10 !important;}
+
+/* main */
+.mvwrap{}
+.mvwrap:after{display:block; content:''; clear:both;}
+div.mvo{height:523px; float:left; display:inline-block;}
+.mv1{border-right:2px solid #dfdfdf}
+.mv2{border-right:2px solid #dfdfdf}
+.mvwrap{width:995px; margin:0 auto;}
+
+

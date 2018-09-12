@@ -1,0 +1,130 @@
+/* submain */
+.drYou .subTitleArea {border:none !important; }
+.drYou .subVisual {position:relative; height:322px; }
+.drYou .subVisual .visual {float:right; position:absolute; right:0; top:0; }
+.drYou .productInfo01 {width:100%; background:url(http://www.orionworld.com/images/dr_you/bg_product_info_line.gif) no-repeat left bottom; padding-bottom:1px; overflow:hidden; }
+.drYou .productInfo01 .productPreview {float:left; }
+.drYou .productInfo01 .goDrYou {float:right; padding-top:20px; }
+.drYou .productInfo02 {width:100%; overflow:hidden; padding-top:26px; }
+.drYou .productInfo02 .proVideo {float:left; }
+.drYou .productInfo02 .goDrYouLab {float:right; padding-top:32px; }
+
+/* philosophy */
+.philosophy {width:100%; }
+.philosophy img {vertical-align:top;  }
+.philosophy p {margin-bottom:40px; }
+.philosophy dl {width:100%; overflow:hidden; }
+.philosophy dl dt {margin-bottom:15px; clear:both; }
+.philosophy dl dd {width:218px; float:left; margin-right:3px; padding-top:90px; }
+.philosophy dl dd.character01 {background:url(http://www.orionworld.com/images/dr_you/bg_character01.gif) no-repeat left top; }
+.philosophy dl dd.character02 {background:url(http://www.orionworld.com/images/dr_you/bg_character02.gif) no-repeat left top; }
+.philosophy dl dd.character03 {background:url(http://www.orionworld.com/images/dr_you/bg_character03.gif) no-repeat left top; margin-right:0; }
+
+/* dr you letter */
+.drYouLetter ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_dryou_letter_tab01_on.gif) no-repeat left top; }
+.drYouLetter ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_dryou_letter_tab02_on.gif) no-repeat left top; }
+.drYouLetter ul.tab03On {background:url(http://www.orionworld.com/images/dr_you/bg_dryou_letter_tab03_on.gif) no-repeat left top; }
+.drYouLetter ul.tab04On {background:url(http://www.orionworld.com/images/dr_you/bg_dryou_letter_tab04_on.gif) no-repeat left top; }
+.drYouLetter ul li a {display:block; }
+.drYouLetter ul li.tab01 {width:81px; height:24px; }
+.drYouLetter ul li.tab01 a {width:81px; height:24px; }
+.drYouLetter ul li.tab02 {width:83px; height:24px; }
+.drYouLetter ul li.tab02 a {width:83px; height:24px; }
+.drYouLetter ul li.tab03 {width:80px; height:24px; }
+.drYouLetter ul li.tab03 a {width:80px; height:24px; }
+.drYouLetter ul li.tab04 {width:62px; height:24px; }
+.drYouLetter ul li.tab04 a {width:62px; height:24px; }
+
+.drYouLetterConetns {position:relative; margin-left:-100px; }
+* html .drYouLetterConetns {width:760px; }
+.drYouLetterConetns img {vertical-align:top; }
+
+
+/* new product */
+.newProduct ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_new_product_tab01_on.gif) no-repeat left top; }
+.newProduct ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_new_product_tab02_on.gif) no-repeat left top; }
+.newProduct ul.tab03On {background:url(http://www.orionworld.com/images/dr_you/bg_new_product_tab03_on.gif) no-repeat left top; }
+.newProduct ul.tab04On {background:url(http://www.orionworld.com/images/dr_you/bg_new_product_tab04_on.gif) no-repeat left top; }
+.newProduct ul li a {display:block; }
+.newProduct ul li.tab01 {width:117px; height:24px; }
+.newProduct ul li.tab01 a {width:117px; height:24px; }
+.newProduct ul li.tab02 {width:106px; height:24px; }
+.newProduct ul li.tab02 a {width:106px; height:24px; }
+.newProduct ul li.tab03 {width:75px; height:24px; }
+.newProduct ul li.tab03 a {width:75px; height:24px; }
+.newProduct ul li.tab04 {width:72px; height:24px; }
+.newProduct ul li.tab04 a {width:72px; height:24px; }
+
+.newPoductContents {width:100%; overflow:hidden; margin-top:46px; }
+.newPoductContents img {vertical-align:top; }
+.newPoductContents .imgView {float:left; position:relative; }
+.newPoductContents .marginL img {margin-left:-50px; }
+.newPoductContents .imgView ul.optionBtn {display:none; position:absolute; left:4px; top:0; }
+.newPoductContents .imgView ul.optionBtn li {margin-bottom:7px; }
+.newPoductContents .proDetailInfo {width:322px; float:right; }
+.newPoductContents .proDetailInfo h4 {margin-bottom:20px; }
+.newPoductContents .proDetailInfo dl {padding-bottom:18px; }
+.newPoductContents .proDetailInfo dl.end {background:url(http://www.orionworld.com/images/common/bg_dot.gif) repeat-x left bottom; margin-bottom:26px; padding-bottom:23px; }
+.newPoductContents .proDetailInfo p.end {background:url(http://www.orionworld.com/images/common/bg_dot.gif) repeat-x left bottom; margin-bottom:26px; padding-bottom:23px; }
+.newPoductContents .proDetailInfo dl dt {margin-bottom:8px; }
+.newPoductContents .proDetailInfo dl dd,
+.newPoductContents .proDetailInfo p {line-height:18px; color:#666666; }
+
+/* pie */
+.pie ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_pie_tab01_on.gif) no-repeat left top; }
+.pie ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_pie_tab02_on.gif) no-repeat left top; }
+.pie ul li a {display:block; }
+.pie ul li.tab01 {width:108px; height:24px; }
+.pie ul li.tab01 a {width:108px; height:24px; }
+.pie ul li.tab02 {width:68px; height:24px; }
+.pie ul li.tab02 a {width:68px; height:24px; }
+
+/* biscuit */
+.biscuit ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_biscuit_tab01_on.gif) no-repeat left top; }
+.biscuit ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_biscuit_tab02_on.gif) no-repeat left top; }
+.biscuit ul.tab03On {background:url(http://www.orionworld.com/images/dr_you/bg_biscuit_tab03_on.gif) no-repeat left top; }
+.biscuit ul.tab04On {background:url(http://www.orionworld.com/images/dr_you/bg_biscuit_tab04_on.gif) no-repeat left top; }
+.biscuit ul li a {display:block; }
+.biscuit ul li.tab01 {width:86px; height:24px; }
+.biscuit ul li.tab01 a {width:86px; height:24px; }
+.biscuit ul li.tab02 {width:106px; height:24px; }
+.biscuit ul li.tab02 a {width:106px; height:24px; }
+.biscuit ul li.tab03 {width:88px; height:24px; }
+.biscuit ul li.tab03 a {width:88px; height:24px; }
+.biscuit ul li.tab04 {width:103px; height:24px; }
+.biscuit ul li.tab04 a {width:103px; height:24px; }
+
+/* snack */
+.snack ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_snack_tab01_on.gif) no-repeat left top; }
+.snack ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_snack_tab02_on.gif) no-repeat left top; }
+.snack ul li a {display:block; }
+.snack ul li.tab01 {width:98px; height:24px; }
+.snack ul li.tab01 a {width:98px; height:24px; }
+.snack ul li.tab02 {width:94px; height:24px; }
+.snack ul li.tab02 a {width:94px; height:24px; }
+
+/* bar */
+.bar ul.tab01On {background:url(http://www.orionworld.com/images/dr_you/bg_bar_tab01_on.gif) no-repeat left top; }
+.bar ul.tab02On {background:url(http://www.orionworld.com/images/dr_you/bg_bar_tab02_on.gif) no-repeat left top; }
+.bar ul.tab03On {background:url(http://www.orionworld.com/images/dr_you/bg_bar_tab03_on.gif) no-repeat left top; }
+.bar ul li a {display:block; }
+.bar ul li.tab01 {width:77px; height:24px; }
+.bar ul li.tab01 a {width:77px; height:24px; }
+.bar ul li.tab02 {width:88px; height:24px; }
+.bar ul li.tab02 a {width:88px; height:24px; }
+.bar ul li.tab03 {width:49px; height:24px; }
+.bar ul li.tab03 a {width:49px; height:24px; }
+
+
+
+
+
+/*150305*/
+
+.newPoductContents02 {width:100%; overflow:hidden;}
+.newPoductContents02 img {vertical-align:top; }
+
+.newPoductContents03 {width:100%; overflow:hidden; margin-top: 30px;}
+.newPoductContents03 img {vertical-align:top; }
+
+.newPoductContents03 img.mb60 { margin-bottom: 60px;}

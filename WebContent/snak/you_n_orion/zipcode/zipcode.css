@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+request.setCharacterEncoding("UTF-8");
+html,body,select,input,textarea {font-size:12px;color:#666666;font-family:"�뗭�",New Gulim,sans-serif;
+}
+
+div, p, ul, li, table, th, td, textarea, input, span, form, h1, h2, h3, h4, h5, dt, dl, dd {margin:0px; padding:0px; font-size:12px; font-family:dotum; color:#464646;}
+ul, ol, dl, dd, dt, li	{list-style-type:none; margin:0px; padding:0px;}
+table {width:90%;}
+select {font-size:12px; height:20px;}
+fieldset {border:0px; margin:0px; padding:0px;}
+legend {margin:0px; padding:0px; font-size:0px; height:0px; line-height:0px;}
+
+caption {position:absolute; display:none; width:0px; height:0px; overflow:hidden; font-size:0px; margin:0px; padding:0px; line-height:0px;} 
+img {border:0;vertical-align:top;}
+textarea{
+	scrollbar-face-color: #c8dbe5;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #FFFFFF;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-arrow-color: #f3fafc;
+	border:1px solid #b3cbda; background:#ffffff;
+}
+
+td {font-family:�뗭�; font:9pt;color:#565656}
+img {border:0}
+ 
+ a {text-decoration:none; color: #111;}
+ a:hover {text-decoration: underline;color: #2883c5;}
+
+
+.zip_w {width:100%;}
+.zip_srch {padding: 7px 17px 17px; font-size:14px; font-weight:bold; text-align:left;}
+.zip_srch input {margin: 3px 3px 0 5px;}
+.zip_srch label {display:inline-block; margin-right:3px;}
+
+.zip_srchbox {margin-bottom:5px;padding: 12px 17px 10px; border:1px solid #e8e8e8; background-color:#f5f5f5;}
+.zip_srchbox input, .zip_srchbox select {vertical-align:middle;}
+.dlline {overflow:hidden; height:22px;}
+.dlline dt { float: left; padding: 2px 5px 0px 0;}
+.dlline dd {float: left; padding: 0 20px 0 0;}
+.zip_srchbox strong {color: #151515; letter-spacing: -1px; padding-left: 8px;}
+.zip_srchbox .srch_btn {border:1px solid #c8c7c8; padding:2px; height:13px;}
+
+.zip_info {margin-bottom:15px;padding: 17px 15px 10px; border:1px solid #e8e8e8; background-color:#f5f5f5; text-align:left;}
+.zip_info p {padding: 0 0 8px 20px;}
+.zip_info .first {margin-left:-17px;}
+.zip_info em {font-weight:bold; font-style:normal; color:#e54600;}
+.zip_info strong {font-weight:bold; color:#2883c5;}
+.zip_info a {color:#2883c5;}
+
+.srch_result {height: 250px; overflow-x: hidden; overflow-y: scroll;}
+.srch_result strong {color:#424242;}
+.zip_t {border-collapse:collapse; width:100%;}
+.zip_t thead th {padding:8px 3px;border-top:1px solid #e8e8e8; border-bottom:1px solid #e8e8e8; font-weight:bold; text-align:center; color:#000000; background-color:#f5f5f5;}
+.zip_t tbody td {padding:7px 0;border-bottom:1px solid #e8e8e8; text-align:center;}
+.zip_t tbody td.none {padding:20px 0;}
+

@@ -1,0 +1,85 @@
+/* popup */
+#popup {background:none !important; }
+#popWrap {padding:0 28px; border-top:5px solid #ed1c2a; border-bottom:5px solid #ed1c2a; }
+#popWrapInner {width:100%; }
+#popHeader h1 {height:46px; position:relative; }
+#popHeader h1 img {position:absolute; left:0; bottom:0; }
+#popHeader.logo h1 {height:auto; background:url(http://www.orionworld.com/images/popup/pop_logo.gif) no-repeat right 26px; border-bottom:2px solid #ed1c2a; margin-bottom:20px; padding:27px 0 9px 0; }
+#popHeader.logo h1 img {position:relative; }
+#popContents {width:100%; padding-bottom:43px; color:#797979; }
+#popContents .contentsBox {background:url(http://www.orionworld.com/images/popup/bg_contents_box_b.gif) no-repeat left bottom; padding-bottom:40px; } 
+#popContents .contentsBox .contentsBoxInner {background:url(http://www.orionworld.com/images/popup/bg_contents_box_t.gif) no-repeat left top; padding-top:30px; }
+#popContents .contentsBox p {text-align:center; line-height:18px; }
+#popContents .contentsBox p strong {color:#555555; }
+#popContents p.topText {padding-bottom:6px; }
+#popContents p.topText img {vertical-align:top; }
+#popContents fieldset label.titLabel {
+background:url(http://www.orionworld.com/images/bullet/sqr01.gif) no-repeat left 4px;
+display:inline-block;
+padding-left:7px; 
+}
+#popContents fieldset img,
+#popContents fieldset select,
+#popContents fieldset input {vertical-align:middle; }
+
+#popContents .privacyWrap {width:100%; height:521px; overflow:auto; font-size:0.92em; }
+#popContents .privacyWrap img {vertical-align:top; }
+#popContents .descPrivacy p {margin-bottom:30px; color:#858585; }
+#popContents .descPrivacy {padding-bottom:10px; }
+#popContents .privacyDetail p,
+#popContents .privacyDetail ul,
+#popContents .privacyDetail ol {line-height:16px; margin-bottom:22px; }
+#popContents .privacyDetail dt {cursor:pointer; }
+#popContents .privacyDetail dd {padding:26px 25px 10px 0; display:none; }
+#popContents .privacyDetail dd strong {color:#fe4b57; }
+
+/* CFview */
+.CFview {width:100%; overflow:hidden; margin-top:40px; }
+.CFview dl.veiwArea {float:left; }
+.CFview dl.veiwArea dd {font-size:1.58em; font-weight:bold; color:#302f2f; text-align:center; margin-top:12px; }
+
+.jamak_w{background:url(http://www.orionworld.com/images/popup/jamak_bg.pngg") no-repeat center top; width:442px; height:341px; float:left;}
+.jamak_w .jamak{width:300px; height:245px; overflow:auto; position:relative; margin:35px auto 0 auto;
+	scrollbar-face-color:#e21321;
+	scrollbar-highlight-color:#ac252e;
+	scrollbar-3dlight-color:#ffffff;
+	scrollbar-shadow-color:#ac252e;
+	scrollbar-darkshadow-color:#ffffff;
+	scrollbar-track-color:#efefef;
+	scrollbar-arrow-color:#fff;
+}
+
+
+.CFview .listSide {width:400px; float:right; overflow:hidden; }
+.CFview .listSide .listArea {position:relative; width:430px; padding-bottom:8px; overflow:hidden; border-bottom:2px solid #ef2634; }
+.CFview .listSide .listArea dl {width:85px; height:88px; text-align:center; float:left; display:inline; margin-right:20px; }
+.CFview .listSide .listArea dl img {vertical-align:top; }
+.CFview .listSide .listArea dl dd {margin-top:5px; }
+.CFview .listSide .listArea dl dd a {color:#4c4c4c; }
+
+.CFview .listSide_new {clear:both;padding:40px 0 0 0}
+.CFview .listSide_new .listArea {position:relative; padding-bottom:8px; overflow:hidden; border-bottom:2px solid #ef2634; }
+.CFview .listSide_new .listArea dl {width:85px; height:88px; text-align:center; float:left; display:inline; margin:0 9px; }
+.CFview .listSide_new .listArea dl img {vertical-align:top; }
+.CFview .listSide_new .listArea dl dd {margin-top:5px; }
+.CFview .listSide_new .listArea dl dd a {color:#4c4c4c; }
+
+/* legal Notice */
+.legalNotice {width:100%; }
+.legalNotice img {vertical-align:top; }
+.legalNotice p,
+.legalNotice ol {margin-bottom:18px; }
+.legalNotice ol li {margin-bottom:7px; }
+.legalNotice ol li.end {margin-bottom:0; }
+
+/* email Address */
+.emailAddress {width:100%; }
+.emailAddress img {vertical-align:top; }
+.emailAddress p {margin-bottom:40px; }
+.emailAddress ol li {margin:0; }
+.emailAddress ol li img {margin-bottom:14px; }
+.emailAddress .lowMenu li img {margin-bottom:0; }
+.emailAddress .lowMenu li {margin-bottom:10px; }
+
+
+

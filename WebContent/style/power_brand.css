@@ -1,0 +1,97 @@
+/* submain */
+.power_brand .subTitleArea {border:none !important; }
+.power_brand .subVisual {position:relative; height:292px; }
+.power_brand .subVisual .visual {float:right; position:absolute; right:0; top:0; }
+.power_brand .productInfo01 {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-top:40px; padding-bottom:1px; overflow:hidden; }
+.power_brand .productInfo01 h5 {height:32px; }
+.power_brand .productInfo01 .productInfo {width:321px; float:left; }
+.power_brand .productInfo01 .brandStory {width:321px; float:right; }
+.power_brand .productInfo02 {width:100%; overflow:hidden; padding-top:26px; display:none; height:0; }
+.power_brand .productInfo02 .proVideo {float:left; }
+.power_brand .productInfo02 .wallpaper {width:385px; float:right; position:relative; margin-top:13px; }
+.power_brand .productInfo02 .wallpaper h5 {margin-bottom:16px; }
+.power_brand .productInfo02 .wallpaper a.viewMore {position:absolute; right:2px; top:3px; }
+.power_brand .productInfo02 .wallpaper ul {overflow:hidden; word-spacing:1px; }
+.power_brand .productInfo02 .wallpaper ul li {display:inline; }
+
+
+/* brand story */
+.brandTitle {width:100%; height:230px; border-bottom:1px solid #ff7a83; overflow:hidden; }
+.brandTitle .productImg {float:left; }
+.brandTitle .productBrief {width:303px; float:right; padding-top:37px; padding-right:50px;}
+.brandTitle .productBrief h4 {margin-bottom:10px; font-size:1.67em; color:#000000; }
+.brandTitle .productBrief ul.optionBtn {overflow:hidden; padding-bottom:10px; }
+.brandTitle .productBrief ul.optionBtn li {float:left; display:inline; margin-right:1px; }
+.brandTitle .productBrief dl.briefInfo {position:relative; margin-bottom:4px; clear:both; }
+.brandTitle .productBrief dl.briefInfo dt {width:35px; height:16px; position:absolute; left:0; top:0; }
+.brandTitle .productBrief dl.briefInfo dt.weight {background:url(http://www.orionworld.com/images/power_brand/bg_txt_weight.gif) no-repeat left top; }
+.brandTitle .productBrief dl.briefInfo dt.ingredient {background:url(http://www.orionworld.com/images/power_brand/bg_txt_ingredient.gif) no-repeat left top; }
+.brandTitle .productBrief dl.briefInfo dd {padding:2px 0 0 40px; line-height:15px; }
+.brandInfoWrap {width:100%; margin-top:48px; padding-bottom:44px; border-bottom:2px solid #e21321; overflow:hidden; }
+.brandInfoWrap h5 {margin-bottom:25px; }
+.brandInfoWrap .productIntro {width:295px; float:left; }
+.brandInfoWrap .productIntro p {line-height:18px; margin-bottom:18px; }
+.brandInfoWrap .nutrientInfo {width:304px; float:right; }
+.brandInfoWrap .nutrientInfo p.relateInfo {margin-bottom:6px; }
+.viewTypeBottom {width:100%; margin-top:48px; font-family: 'NanumGothicWEB' !important;}
+
+.productIntroReview {width:100%; }
+.productIntroReview img {vertical-align:top; }
+.productIntroReview .productIntroTop {width:100%; height:275px; margin-top:48px; border-bottom:1px solid #ff7a83; }
+.productIntroReview .productIntroTop h4 {margin-bottom:20px; }
+.productIntroReview .productIntroTop p {margin-bottom:22px; }
+.productIntroReview .productIntroTop ul.optionBtns {overflow:hidden; }
+.productIntroReview .productIntroTop ul.optionBtns li {float:left; }
+.productIntroReview .reviewContents {width:100%; }
+.productIntroReview .reviewContents .contentsLine {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding:50px 0; position:relative; }
+.productIntroReview .reviewContents .end {background:none; }
+.productIntroReview .reviewContents .contentsLine p.alignLeft {text-align:left; }
+.productIntroReview .reviewContents .contentsLine p.alignRight {text-align:right; }
+.productIntroReview .reviewContents .contentsLine ol li {margin-bottom:9px; }
+
+.brand01 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review01_top.gif) no-repeat right top; }
+.brand01 .line01 span img {position:absolute; left:0; top:40px; }
+.brand01 .line02 span img {position:absolute; right:0; top:30px; }
+.brand01 .line03 span img {position:absolute; left:0; top:40px; }
+
+.brand02 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review02_top.gif) no-repeat right top; }
+.brand02 .line01 span img {position:absolute; left:0; top:30px; }
+.brand02 .line02 span img {position:absolute; right:0; top:30px; }
+
+.brand03 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review03_top.gif) no-repeat right top; }
+.brand03 .reviewContents p {margin-bottom:33px; }
+.brand03 .reviewContents p.end {margin-bottom:0 !important; }
+
+.brand04 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review04_top.gif) no-repeat right top; }
+.brand04 .line01 span img {position:absolute; left:0; top:40px; }
+.brand04 .line02 span img {position:absolute; right:0; top:24px; }
+.brand04 .line03 span img {position:absolute; left:0; top:35px; }
+
+.brand05 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review05_top.gif) no-repeat right top; }
+.brand05 .line01 span img {position:absolute; left:0; top:48px; }
+.brand05 .line02 span img {position:absolute; right:0; top:31px; }
+.brand05 .line03 span img {position:absolute; left:0; top:35px; }
+
+.brand06 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review06_top.gif) no-repeat right top; }
+.brand06 .line01 span img {position:absolute; left:0; top:40px; }
+.brand06 .line02 span img {position:absolute; right:0; top:31px; }
+.brand06 .line03 span img {position:absolute; left:0; top:35px; }
+
+.brand07 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review07_top.gif) no-repeat right top; }
+.brand07 .line01 span img {position:absolute; left:0; top:50px; }
+
+.brand08 .productIntroTop {background:url(http://www.orionworld.com/images/power_brand/bg_product_review08_top.gif) no-repeat right top; }
+
+
+/* pie type */
+.typeList {width:100%; position:relative; overflow:hidden; } 
+.typeList .typeListLine {border-bottom:1px solid #ff7a83; overflow:hidden; padding:32px 0 15px 0; }
+.typeList dl.typeListSet {width:154px; float:left; margin-right:12px; }
+.typeList dl.end {margin:0; }
+.typeList dl.typeListSet dt {height:130px; text-align:center; }
+.typeList dl.typeListSet dd {text-align:center; }
+.typeList dl.typeListSet dd.prodTitle {padding-bottom:8px; }
+
+
+.goods_name{font-family:'NanumGothicWEB', 'dotum', 'gulim'; font-size:23px; font-weight:bold; padding-top:40px; text-align:center;}
+.goods_comment{font-family:'NanumGothicWEB', 'dotum', 'gulim'; font-size:14px; font-weight:bold;}

@@ -1,0 +1,74 @@
+/* customer center */
+.agreementWrap {width:100%; position:relative; padding-top:42px; }
+.agreementWrap h4 {margin-bottom:15px; }
+* html .agreementWrap {margin-right:-60px; }
+.agreementWrap .agreementBox {width:100%; position:relative; }
+.agreementWrap .agreementBox a.viewPrivacy {position:absolute; right:5px; top:15px; }
+.agreementWrap .agreementBox fieldset p {padding-top:11px; text-align:right; }
+.agreementWrap .agreementBox fieldset p input.checkType {vertical-align:middle; margin-bottom:5px; }
+* html .agreementWrap .agreementBox a.viewPrivacy {position:absolute; right:15px; top:3px; }
+.agreementWrap .agreeContents {height:198px; padding:10px; line-height:18px; overflow:auto; border:1px solid #e0e0e0; }
+.inputOpinon {width:100%; position:relative; }
+.inputOpinon .textOpinonInfo {position:absolute; right:0; top:15px; }
+
+/* news notice */
+.newsNotice ul.tab01On {background:url(http://www.orionworld.com/images/you_n_orion/bg_news_notice_tab01_on.gif) no-repeat left top; }
+.newsNotice ul.tab02On {background:url(http://www.orionworld.com/images/you_n_orion/bg_news_notice_tab02_on.gif) no-repeat left top; }
+.newsNotice ul.tab03On {background:url(http://www.orionworld.com/images/you_n_orion/bg_news_notice_tab03_on.gif) no-repeat left top; }
+.newsNotice ul.tab04On {background:url(http://www.orionworld.com/images/you_n_orion/bg_news_notice_tab04_on.gif) no-repeat left top; }
+.newsNotice ul.tab05On {background:url(http://www.orionworld.com/images/you_n_orion/bg_news_notice_tab05_on.gif) no-repeat left top; }
+.newsNotice ul li a {display:block; }
+.newsNotice ul li.tab01 {width:56px; height:24px; }
+.newsNotice ul li.tab01 a {width:56px; height:24px; }
+.newsNotice ul li.tab02 {width:54px; height:24px; }
+.newsNotice ul li.tab02 a {width:54px; height:24px; }
+.newsNotice ul li.tab03 {width:44px; height:24px; }
+.newsNotice ul li.tab03 a {width:44px; height:24px; }
+.newsNotice ul li.tab04 {width:44px; height:24px; }
+.newsNotice ul li.tab04 a {width:44px; height:24px; }
+.newsNotice ul li.tab05 {width:50px; height:24px; }
+.newsNotice ul li.tab05 a {width:50px; height:24px; }
+
+/* osamo */
+.osamoIntro {width:100%; height:432px; background:url(http://www.orionworld.com/images/you_n_orion/bg_osamo_intro.gif) no-repeat right bottom; }
+.osamoIntro p img {margin-top:60px; }
+.osamoIntro p img {vertical-align:middle; }
+.osamoIntro ul.osamoLink {width:100%; margin-top:36px; overflow:hidden; }
+.osamoIntro ul.osamoLink li {float:left; margin-right:8px; display:inline; }
+.osamoOnlineApply {width:100%; margin-top:30px; }
+.osamoOnlineApply h4 {margin-bottom:25px; }
+.osamoOnlineApply ol {padding:25px 0; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; }
+.osamoOnlineApply ol li {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding-bottom:22px; margin-bottom:17px; }
+.osamoOnlineApply ol li img {vertical-align:top; }
+.osamoOnlineApply ol li.end {background:none; margin:0; padding:0; }
+.osamoApplyFormWrap {margin-top:40px; border-bottom:2px solid #ef2634; }
+.osamoApplyFormWrap h4 {margin-bottom:15px; }
+
+.osamoWrap {width:100%; padding-top:40px; }
+.osamoWrap h4.type01 {margin-bottom:15px; padding:0; }
+
+/* sitemap */
+.sitemapWrap {width:100%; overflow:hidden; margin-top:54px; }
+.sitemapWrap .sitemapSet {width:186px; float:left; margin:0 50px 32px 0; display:inline; }
+.sitemapWrap .setEnd {margin-right:0; }
+.sitemapWrap .sitemapSet h4 {margin-bottom:20px; }
+.sitemapWrap .sitemapSet ul {width:100%; overflow:hidden; }
+.sitemapWrap .sitemapSet ul li.subMenu {border-bottom:1px solid #ebebeb; margin-bottom:9px; padding-left:13px; }
+.sitemapWrap .sitemapSet ul li.subMenuAlone {padding-bottom:7px; }
+.sitemapWrap .sitemapSet ul li { }
+.sitemapWrap .sitemapSet ul img {float:left; }
+.sitemapWrap .sitemapSet ul li {width:100%; float:left; }
+.sitemapWrap .sitemapSet ul.lowMenu {padding-top:11px; }
+.sitemapWrap .sitemapSet ul.lowMenu li {padding-bottom:6px; }
+.sitemapWrap .sitemapSet li.listEnd {border-bottom:none !important; }
+
+/* branch net */
+.branchMap {width:100%; margin:40px 0; }
+.branchWrap h4 {margin-bottom:12px; }
+
+
+
+
+
+
+

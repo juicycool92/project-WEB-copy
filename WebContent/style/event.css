@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* event */
+.eventListWrap {width:100%; padding-top:40px; }
+.eventListWrap .eventListSet {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; overflow:hidden; margin-bottom:20px; padding-bottom:20px; }
+.eventListWrap .eventListSet .imgEvent {float:left; }
+.eventListWrap .eventListSet .imgEvent img {border:1px solid #dedede; }
+.eventListWrap .end {background:none; }
+.eventListWrap .eventListSet dl.eventInfo {width:315px; float:right; }
+.eventListWrap .eventListSet dl.eventInfo img {vertical-align:top; }
+.eventListWrap .eventListSet dl.eventInfo dt {font-weight:bold; color:#e51826; margin-bottom:9px; }
+.eventListWrap .eventListSet dl.eventInfo dd {margin-bottom:4px; }
+.eventListWrap .eventListSet dl.eventInfo dd img {vertical-align:middle; }
+
+
+
+
+
+
+
+
+
+

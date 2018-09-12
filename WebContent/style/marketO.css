@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* submain */
+.marketO .productInfo01 {width:100%; height:218px; border-top:2px solid #b8c000; border-bottom:1px solid #cccccc; overflow:hidden; }
+.marketO .productInfo01 .productPreview {float:left; }
+.marketO .productInfo01 .goMarketO {float:right; padding-top:50px; }
+.marketO .productInfo02 {width:100%; overflow:hidden; padding-top:26px; }
+.marketO .productInfo02 .proVideo {float:left; }
+.marketO .productInfo02 .wallpaper {width:385px; float:right; position:relative; margin-top:17px; }
+.marketO .productInfo02 .wallpaper h5 {margin-bottom:16px; }
+.marketO .productInfo02 .wallpaper a.viewMore {position:absolute; right:2px; top:3px; }
+.marketO .productInfo02 .wallpaper ul {overflow:hidden; word-spacing:1px; }
+.marketO .productInfo02 .wallpaper ul li {display:inline; }
+
+/* story */
+.storyWrap {width:100%; margin-top:60px; }
+.storyWrap p {margin-bottom:12px; }
+.storyWrap p.divide {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-bottom:35px; padding-bottom:35px; }
+
+/* philosophy */
+.foodConsultant {width:100%; margin-top:50px; }
+.foodConsultant h4 {margin-bottom:27px; }
+.foodConsultant dl {width:100%; position:relative; overflow:hidden; padding-bottom:32px; border-bottom:1px solid #ff7a83; }
+.foodConsultant dl dt {position:absolute; left:0; top:0; }
+.foodConsultant dl dd {width:520px; float:right; margin-bottom:17px; }
+.foodConsultant dl dd.first {margin-bottom:12px; }
+.foodConsultant dl dd img {float:left; }
+.foodPhilosophyList {width:100%; margin-top:35px; }
+.foodPhilosophyList img {vertical-align:top; }
+.foodPhilosophyList dl {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-bottom:24px; padding-bottom:26px; }
+.foodPhilosophyList dt {margin-bottom:20px; }
+
+/* new product */
+.newProduct ul.tab01On {background:url(http://www.orionworld.com/images/marketO/bg_new_product_tab01_on.gif) no-repeat left top; }
+.newProduct ul.tab02On {background:url(http://www.orionworld.com/images/marketO/bg_new_product_tab02_on.gif) no-repeat left top; }
+.newProduct ul.tab03On {background:url(http://www.orionworld.com/images/marketO/bg_new_product_tab03_on.gif) no-repeat left top; }
+.newProduct ul.tab04On {background:url(http://www.orionworld.com/images/marketO/bg_new_product_tab04_on.gif) no-repeat left top; }
+.newProduct ul li a {display:block; }
+.newProduct ul li.tab01 {width:104px; height:24px; }
+.newProduct ul li.tab01 a {width:104px; height:24px; }
+.newProduct ul li.tab02 {width:84px; height:24px; }
+.newProduct ul li.tab02 a {width:84px; height:24px; }
+.newProduct ul li.tab03 {width:84px; height:24px; }
+.newProduct ul li.tab03 a {width:84px; height:24px; }
+.newProduct ul li.tab04 {width:109px; height:24px; }
+.newProduct ul li.tab04 a {width:109px; height:24px; }
+
+.productInfo {width:100%; margin-top:38px; overflow:hidden; }
+.productInfo02 {width:100%; overflow:hidden;}
+.productInfo .productImg {float:left; position:relative; }
+.productInfo02 .productImg {float:left; position:relative; display:block; }
+.productInfo .floating img {margin-left:-70px; }
+* html .productInfo .floating {width:374px; margin-left:-70px; }
+* html .productInfo .floating img {margin-left:0; }
+.productInfo .productInfoDetail {width:320px; float:right; }
+.productInfo .productInfoDetail p,
+.productInfo .productInfoDetail dd {line-height:18px; color:#666666; padding-bottom:22px; }
+.productInfo .productInfoDetail dl {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-top:25px; }
+.productInfo .productInfoDetail dl dt {margin-bottom:12px; }
+.productInfo .productInfoDetail dl dt img {vertical-align:top; }
+.productInfo .productInfoDetail dl.end {background:none; }
+
+/* real chocolate */
+.realChocolate {height:32px; }
+.realChocolate ul {height:32px; }
+.realChocolate ul.tab01On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab01_on.gif) no-repeat left top; }
+.realChocolate ul.tab02On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab02_on.gif) no-repeat left top; }
+.realChocolate ul.tab03On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab03_on.gif) no-repeat left top; }
+.realChocolate ul.tab04On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab04_on.gif) no-repeat left top; }
+.realChocolate ul.tab05On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab05_on.gif) no-repeat left top; }
+.realChocolate ul.tab06On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab06_on.gif) no-repeat left top; }
+.realChocolate ul.tab07On {background:url(http://www.orionworld.com/images/marketO/bg_real_chocolate_tab07_on.gif) no-repeat left top; }
+.realChocolate ul li a {display:block; }
+.realChocolate ul li.tab01 {width:85px; height:32px; }
+.realChocolate ul li.tab01 a {width:85px; height:32px; }
+.realChocolate ul li.tab02 {width:88px; height:32px; }
+.realChocolate ul li.tab02 a {width:88px; height:32px; }
+.realChocolate ul li.tab03 {width:85px; height:32px; }
+.realChocolate ul li.tab03 a {width:85px; height:32px; }
+.realChocolate ul li.tab04 {width:87px; height:32px; }
+.realChocolate ul li.tab04 a {width:87px; height:32px; }
+.realChocolate ul li.tab05 {width:87px; height:32px; }
+.realChocolate ul li.tab05 a {width:87px; height:32px; }
+.realChocolate ul li.tab06 {width:61px; height:32px; }
+.realChocolate ul li.tab06 a {width:61px; height:32px; }
+.realChocolate ul li.tab07 {width:60px; height:32px; }
+.realChocolate ul li.tab07 a {width:60px; height:32px; }
+
+
+
+
+
+/*150304*/
+* {margin:0; padding: 0;}
+.MarketOintro_wrap { width: 100%; height:1024px; background:url(http://www.orionworld.com/images/marketO/intro_bg.png) center top no-repeat #fff7ec; position: relative; }
+.MarketOintro_box { width:602px; height:675px; position: absolute; top:198px; left: 50%; margin-left:-302px; background:url(http://www.orionworld.com/images/marketO/intro_cont.png) center top no-repeat;  overflow:hidden;}
+.MarketOintro_box:after {content:''; display:block; height:0; clear:both;}
+.MarketOintro_box a { display: block; }
+.MarketOintro_box a.left {float:left;}
+.MarketOintro_box a.right {float:right}
+.MarketOintro_box a img {border: 0;}
+

@@ -1,0 +1,105 @@
+/* Board Input Type */
+.boardInputType {width:100%; table-layout:fixed; }
+.boardInputType th {text-align:left; vertical-align:top; padding:10px 0 0 8px; border-bottom:1px solid #f3f3f3; }
+.boardInputType td {padding:6px 0 7px 0; border-bottom:1px solid #f3f3f3; }
+.boardInputType td input,
+.boardInputType td select,
+.boardInputType td img {vertical-align:middle; }
+.boardInputType td p.txtInfo {padding-top:10px; }
+.boardInputType td p.txtInfo img {display:block; }
+.boardInputType tr.end th,
+.boardInputType tr.end td {background:none; border-bottom:none; }
+.boardInputType td.textLine {padding:10px 0 7px 0; }
+.boardInputType input.radioType {width:13px; height:13px; vertical-align:middle; margin-bottom:3px; }
+.boardInputType td p.inputLine {margin-top:5px; }
+.bgDot th,
+.bgDot td {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; border:none; }
+
+/* Check List */
+table.checkList tr.first td {padding-top:0; }
+table.checkList td {padding-left:18px; }
+table.checkList td img {vertical-align:middle; margin-top:2px; }
+table.checkList td img {}
+
+/* Board DataType */
+table.boardDataType {width:100%; border-top:2px solid #e21321; }
+table.boardDataType th {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; text-align:left; padding:7px 0 3px 21px; position:relative; }
+table.boardDataType th span {width:100%; background:url(http://www.orionworld.com/images/board/bg_divider.gif) no-repeat right 2px; display:block; }
+table.boardDataType td {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; }
+table.boardDataType td.value {padding-left:46px; }
+table.boardDataType tr.end th,
+table.boardDataType tr.end td {background:none; border-bottom:2px solid #e21321 }
+
+/* Board List Type */
+table.boardListType {width:100%; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; }
+table.boardListType th {height:37px; background:#fdeed8 url(http://www.orionworld.com/images/board/bg_divider_lst.gif) no-repeat right 13px;  color:#e21321;}
+table.boardListType th.end {background-image:none; }
+table.boardListType td {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; font-size:0.92em; font-family:Verdana; text-align:center; padding:12px 0 11px 0; }
+
+table.boardListType td.title {font-size:1.09em; font-family:Dotum; text-align:left; padding:14px 0 11px 15px; }
+table.boardListType td.title3 { text-align:right; padding:11px; }/* 20160822 ³»¿ëÃß°¡ */
+table.boardListType td img {vertical-align:middle; margin-top:-3px; }
+table.boardListType tr.end td {background:none; }
+
+/* Board View Type */
+table.boardViewType {width:100%; table-layout:fixed; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; }
+table.boardViewType tr.first th {height:37px; background:#fdeed8 url(http://www.orionworld.com/images/board/bg_divider_lst.gif) no-repeat right 13px; font-family:Verdana; font-weight:normal; text-align:left; }
+table.boardViewType tr.first td {background:#fdeed8; font-family:Verdana; vertical-align:top; padding:10px 0 0 8px; }
+table.boardViewType tr.first th img {vertical-align:middle; }
+table.boardViewType tr.first th.title {background-image:none; font-family:Dotum; font-weight:bold; color:#e21321; padding-left:23px; }
+table.boardViewType td.viewContents {padding:40px 22px; line-height:26px; color: #5D5D5D;}
+
+/* Board Write Type */
+table.boardWriteType {width:100%; border-top:2px solid #ef2634; table-layout:fixed; }
+table.borderThin {width:100%; border-top:1px solid #ef2634;}
+table.boardWriteType tr.first th {height:41px; background:#fdeed8 url(http://www.orionworld.com/images/bullet/cir01.gif) no-repeat 9px center; text-align:left; padding-left:21px; }
+table.boardWriteType th {height:31px; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding-left:8px; text-align:left; }
+table.boardWriteType td {padding:6px 0; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; }
+* html table.boardWriteType td {padding:4px 0 6px 0; } /* ie6.0 hack */
+*:first-child+html table.boardWriteType td {padding:4px 0 6px 0; } /* ie7.0 hack */
+table.boardWriteType td.textLine {padding:11px 0 8px 0; }
+table.boardWriteType tr.end th,
+table.boardWriteType tr.end td {background:none; }
+table.boardWriteType td input,
+table.boardWriteType td img {vertical-align:middle; }
+table.boardWriteType td input.radioType {vertical-align:middle; }
+table.boardWriteType td input.radioType p.imgText {padding:11px 0; }
+
+/* investment */
+table.investment {margin-left:-10px; }
+table.investment td {font-size:13px; color:#666666; }
+
+
+/* FAQ Type */
+table.faq_list {width:100%; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; }
+table.faq_list td{border-bottom:1px solid #d0d0d0; font-family:Verdana; text-align:center; padding:12px 0 11px 0; }
+table.faq_list td.title{font-size:13px; font-weight:bold; text-align:left; padding:14px 0 11px 15px; FONT-FAMILY: 'µ¸¿òÃ¼'}
+table.faq_list td.title1{font-size:12px; text-align:left; padding:14px 0 11px 15px; }
+table.faq_list tr.answer{ font-size:12px; text-align:left; padding:12px 0 11px 0; background-color:#f1f1f1; }
+table.faq_list tr td.text_right{text-align:left; line-height:16px;}
+table.faq_list tr td p.text_line{padding:0px 25px 10px 5px;}
+table.faq_list td img {vertical-align:middle; margin-top:-3px; }
+
+
+
+
+/* FAQ Type2 */
+div.faq_list {width:100%; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; position:relative;}
+div.faq_list .q.trigger{border-bottom:1px solid #d0d0d0; font-family:Verdana; text-align:center; padding:12px 0 11px 0; cursor:pointer;position:relative; line-height:18px;}
+div.faq_list .q.trigger{font-size:13px; font-weight:bold; text-align:left; padding:14px 0 11px 15px; FONT-FAMILY: 'µ¸¿òÃ¼'}
+div.faq_list .q.trigger img{vertical-align:middle; margin-top:-3px; }
+div.faq_list .a{font-size:12px; text-align:left; padding:12px 0 11px 0; background-color:#f1f1f1; }
+div.faq_list .a{text-align:left; line-height:16px;}
+div.faq_list .a{padding:0px 25px 10px 5px;}
+div.faq_list .a img{vertical-align:middle; margin-top:-3px; }
+
+
+/* FAQ Type 20140417 */
+div.faq_list02 {width:100%; border-bottom:2px solid #ef2634; position:relative;}
+div.faq_list02 .q.trigger{border-bottom:1px solid #d0d0d0; font-family:Verdana; text-align:center; padding:12px 0 11px 0; cursor:pointer;position:relative; line-height:18px;}
+div.faq_list02 .q.trigger{font-size:13px; font-weight:bold; text-align:left; padding:14px 0 11px 15px; FONT-FAMILY: 'µ¸¿òÃ¼'}
+div.faq_list02 .q.trigger img{vertical-align:middle; margin-top:-3px; }
+div.faq_list02 .a{font-size:12px; text-align:left; padding:12px 0 11px 0; background-color:#f1f1f1; }
+div.faq_list02 .a{text-align:left; line-height:16px;}
+div.faq_list02 .a{padding:0px 25px 10px 5px;}
+div.faq_list02 .a img{vertical-align:middle; margin-top:-3px; }

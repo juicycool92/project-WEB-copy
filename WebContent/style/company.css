@@ -1,0 +1,333 @@
+/* orion CF */
+.orionCF ul.tab01On {background:url(http://www.orionworld.com/images/company/bg_orion_cf_tab01_on.gif) no-repeat left top; }
+.orionCF ul.tab02On {background:url(http://www.orionworld.com/images/company/bg_orion_cf_tab02_on.gif) no-repeat left top; }
+.orionCF ul.tab03On {background:url(http://www.orionworld.com/images/company/bg_orion_cf_tab03_on.gif) no-repeat left top; }
+.orionCF ul.tab04On {background:url(http://www.orionworld.com/images/company/bg_orion_cf_tab04_on.gif) no-repeat left top; }
+.orionCF ul.tab05On {background:url(http://www.orionworld.com/images/company/bg_orion_cf_tab05_on.gif) no-repeat left top; }
+.orionCF ul li a {display:block; }
+.orionCF ul li.tab01 {width:115px; height:24px; }
+.orionCF ul li.tab01 a {width:115px; height:24px; }
+.orionCF ul li.tab02 {width:84px; height:24px; }
+.orionCF ul li.tab02 a {width:84px; height:24px; }
+.orionCF ul li.tab03 {width:84px; height:24px; }
+.orionCF ul li.tab03 a {width:84px; height:24px; }
+.orionCF ul li.tab04 {width:54px; height:24px; }
+.orionCF ul li.tab04 a {width:54px; height:24px; }
+.orionCF ul li.tab05 {width:91px; height:24px; }
+.orionCF ul li.tab05 a {width:91px; height:24px; }
+
+.orionCfList {width:100%; overflow:hidden; border-bottom:2px solid #ef2634; padding-top:40px; }
+.orionCfList dl.orionCfListSet {width:83px; height:130px; float:left; margin-right:60px; }
+.orionCfList dl.orionCfListSet dt img {border:1px solid #e4e4e4; vertical-align:top; }
+.orionCfList dl.orionCfListSet dd {padding-top:9px; text-align:center; }
+.orionCfList dl.orionCfListSet dd a {color:#4c4c4c; }
+.orionCfList dl.end {margin:0; }
+
+/* orion way */
+.orionWayList {width:100%; border-top:2px solid #ef2634; border-bottom:2px solid #ef2634; }
+.orionWayList .orionWayListSet {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding:15px 0 16px 0; overflow:hidden; }
+.orionWayList .orionWayListSet .imgPreview {float:left; display:inline; }
+.orionWayList .orionWayListSet .imgPreview img {vertical-align:top; border:1px solid #dddddd; }
+.orionWayList .orionWayListSet dl {width:500px; float:right; position:relative; padding-top:3px; }
+.orionWayList .orionWayListSet dl dt {font-weight:bold; }
+.orionWayList .orionWayListSet dl dt a {color:#e21321; }
+.orionWayList .orionWayListSet dl dd.regDate {font-family:Verdana; font-size:0.92em; position:absolute; right:0; top:6px; }
+.orionWayList .orionWayListSet dl dd.contentsPreview {line-height:18px; padding-top:10px; }
+.orionWayList div.end {background:none; }
+
+/* public announce info */
+ul.publicAnnounceInfo {width:100%; margin:52px 0 20px 0; text-align:right; }
+ul.publicAnnounceInfo li {display:inline; }
+
+/* stockholder */
+.stockholder ul.tab01On {background:url(http://www.orionworld.com/images/company/bg_stockholder_tab01_on.gif) no-repeat left top; }
+.stockholder ul.tab02On {background:url(http://www.orionworld.com/images/company/bg_stockholder_tab02_on.gif) no-repeat left top; }
+.stockholder ul.tab03On {background:url(http://www.orionworld.com/images/company/bg_stockholder_tab03_on.gif) no-repeat left top; }
+.stockholder ul li a {display:block; }
+.stockholder ul li.tab01 {width:74px; height:24px; }
+.stockholder ul li.tab01 a {width:74px; height:24px; }
+.stockholder ul li.tab02 {width:63px; height:24px; }
+.stockholder ul li.tab02 a {width:63px; height:24px; }
+.stockholder ul li.tab03 {width:108px; height:24px; }
+.stockholder ul li.tab03 a {width:108px; height:24px; }
+.stockholderWrap {width:100%; margin-top:40px; }
+.stockholderWrap h4 {margin-bottom:20px; }
+.stockholderWrap ul.analystList {width:100%; }
+.stockholderWrap ul.analystList li {display:inline; }
+
+/* finance */
+.finance ul.tab01On {background:url(http://www.orionworld.com/images/company/bg_finance_tab01_on.gif) no-repeat left top; }
+.finance ul.tab02On {background:url(http://www.orionworld.com/images/company/bg_finance_tab02_on.gif) no-repeat left top; }
+.finance ul.tab03On {background:url(http://www.orionworld.com/images/company/bg_finance_tab03_on.gif) no-repeat left top; }
+.finance ul.tab04On {background:url(http://www.orionworld.com/images/company/bg_finance_tab04_on.gif) no-repeat left top; }
+.finance ul.tab05On {background:url(http://www.orionworld.com/images/company/bg_finance_tab05_on.gif) no-repeat left top; }
+.finance ul.tab06On {background:url(http://www.orionworld.com/images/company/bg_finance_tab06_on.gif) no-repeat left top; }
+.finance ul li a {display:block; }
+.finance ul li.tab01 {width:96px; height:24px; }
+.finance ul li.tab01 a {width:96px; height:24px; }
+.finance ul li.tab02 {width:72px; height:24px; }
+.finance ul li.tab02 a {width:72px; height:24px; }
+.finance ul li.tab03 {width:71px; height:24px; }
+.finance ul li.tab03 a {width:71px; height:24px; }
+.finance ul li.tab04 {width:63px; height:24px; }
+.finance ul li.tab04 a {width:63px; height:24px; }
+.finance ul li.tab05 {width:104px; height:24px; }
+.finance ul li.tab05 a {width:104px; height:24px; }
+.finance ul li.tab06 {width:110px; height:24px; }
+.finance ul li.tab06 a {width:110px; height:24px; }
+.financeWrap {width:100%; margin-top:40px; position:relative; }
+.financeWrap select {position:absolute; right:30px; top:0; }
+
+.stockpriceWrap {width:100%; margin-top:40px; }
+.stockprice ul.tab01On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab01_on.gif) no-repeat left top; }
+.stockprice ul.tab02On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab02_on.gif) no-repeat left top; }
+.stockprice ul.tab03On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab03_on.gif) no-repeat left top; }
+.stockprice ul.tab04On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab04_on.gif) no-repeat left top; }
+.stockprice ul.tab05On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab05_on.gif) no-repeat left top; }
+.stockprice ul.tab06On {background:url(http://www.orionworld.com/images/company/bg_stockprice_tab06_on.gif) no-repeat left top; }
+.stockprice ul li a {display:block; }
+.stockprice ul li.tab01 {width:86px; height:24px; }
+.stockprice ul li.tab01 a {width:86px; height:24px; }
+.stockprice ul li.tab02 {width:76px; height:24px; }
+.stockprice ul li.tab02 a {width:76px; height:24px; }
+.stockprice ul li.tab03 {width:85px; height:24px; }
+.stockprice ul li.tab03 a {width:85px; height:24px; }
+.stockprice ul li.tab04 {width:85px; height:24px; }
+.stockprice ul li.tab04 a {width:85px; height:24px; }
+.stockprice ul li.tab05 {width:85px; height:24px; }
+.stockprice ul li.tab05 a {width:85px; height:24px; }
+.stockprice ul li.tab06 {width:100px; height:24px; }
+.stockprice ul li.tab06 a {width:100px; height:24px; }
+
+/* submain */
+.company .subTitleArea {border:none !important; }
+.company .introSubvisual {position:relative; height:464px; }
+.company .introSubvisual .visual {float:right; position:absolute; right:0; top:0; }
+.orionIntroMainBottom {width:100%; overflow:hidden; margin-top:40px; }
+.orionIntroMainBottom h5 {margin-bottom:10px; }
+.orionIntroMainBottom img {vertical-align:top; }
+.orionIntroMainBottom p {margin-bottom:16px; }
+.orionIntroMainBottom p.relatedImg {margin-bottom:19px; }
+.orionIntroMainBottom ul li {display:inline;	 }
+.orionIntroMainBottom .orionWaySubmain {float:left; }
+.orionIntroMainBottom .introCISubmain {float:right; }
+
+.busiSubvisual {position:relative; height:290px; }
+.busiSubvisual .visual {float:right; position:absolute; right:0; top:0; }
+
+
+/* ceo */
+.ceo ul.tab01On {background:url(http://www.orionworld.com/images/company/bg_ceo_tab01_on.gif) no-repeat left top; }
+.ceo ul.tab02On {background:url(http://www.orionworld.com/images/company/bg_ceo_tab02_on.gif) no-repeat left top; }
+.ceo ul li a {display:block; }
+.ceo ul li.tab01 {width:86px; height:24px; }
+.ceo ul li.tab01 a {width:86px; height:24px; }
+.ceo ul li.tab02 {width:100px; height:24px; }
+.ceo ul li.tab02 a {width:100px; height:24px; }
+.ceoWrap {width:100%; position:relative; padding-top:41px; }
+.ceoWrap p {margin-bottom:18px; position:relative; }
+.ceoWrap .ceoPhoto {position:absolute; right:0; top:0; z-index:-1; }
+
+/* orion way */
+.orionWayWrap {width:100%; }
+.orionWayWrap img {vertical-align:top; }
+.orionWayWrap h4 {margin:40px 0 15px 0; }
+.orionWayWrap p {padding-bottom:14px; }
+.orionWayWrap ol {width:100%; border-top:1px solid #e0e0e0; border-bottom:1px solid #ff7a83; margin-top:20px; padding:28px 0 60px 0; }
+.orionWayWrap ol.end {border-bottom:none; }
+.orionWayWrap ol li {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding-bottom:22px; margin-bottom:20px; }
+.orionWayWrap ol li.end {background:none; margin:0; }
+
+/* ci */
+.ciWrap {width:100%; padding-top:37px; }
+.ciWrap img {vertical-align:top; }
+.ciWrap p {padding-bottom:30px; }
+.ciWrap dl {width:100%; }
+.ciWrap dl dt {margin-bottom:13px; }
+.ciWrap dl dd {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-bottom:20px; padding-bottom:30px; }
+.ciWrap dl.end dd {background:none; margin:0; }
+
+/* founder */
+.founderWrap {width:100%; padding-top:40px; }
+.founderWrap img {vertical-align:top; }
+.founderWrap dl {width:100%; }
+.founderWrap dl.first {padding-bottom:18px; }
+.founderWrap dl.end {padding-bottom:42px; }
+.founderWrap dl dt {margin-bottom:24px; }
+.founderWrap dl dd {margin-bottom:18px; }
+.founderWrap .busiIdea {width:100%; overflow:hidden; margin-bottom:25px; padding-top:40px; border-top:1px solid #ff7a83; }
+.founderWrap .busiIdea p {float:left; }
+.founderWrap .busiIdea ul {width:314px; float:right; }
+.founderWrap .busiIdea ul li span {display:block; margin-bottom:20px; }
+.founderWrap .busiIdea ol li {margin-bottom:10px; }
+
+/* history */
+.historyWrap {width:100%; }
+.historyWrap img {vertical-align:top; }
+.historyWrap ul.historyTab {width:100%; height:49px; position:relative; overflow:hidden; }
+.historyWrap ul.historyTab li {float:left; }
+.historyWrap ul.historyTab ul.smenu01 {position:absolute; left:30px; top:23px; }
+.historyWrap ul.historyTab ul.smenu02 {position:absolute; left:60px; top:23px; }
+.historyWrap ul.historyTab ul.smenu03 {position:absolute; left:208px; top:23px; }
+.historyWrap ul.historyTab ul.smenu04 {position:absolute; right:165px; top:23px; }
+.historyWrap ul.historyTab ul.smenu05 {position:absolute; right:32px; top:23px; }
+.historyWrap .historyDesc {border-bottom:2px solid #e21321; }
+.historyWrap .historyListWrap {width:100%; padding-top:20px; border-bottom:2px solid #e21321; }
+.historyWrap .historyListWrap dl.historyListSet {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; overflow:hidden; margin-bottom:20px; padding-bottom:21px; }
+.historyWrap .historyListWrap dl.historyListSet dt {width:190px; height:112px; float:left; text-align:center; border:1px solid #e0e0e0; }
+.historyWrap .historyListWrap dl.historyListSet dt img {margin-top:4px; }
+.historyWrap .historyListWrap dl.historyListSet dd {width:433px; float:right; margin-bottom:9px; }
+.historyWrap .historyListWrap dl.historyListSet dd.first {padding-top:6px; }
+.historyWrap .historyListWrap dl.end {background:none; margin-bottom:0; }
+.yearWrap {width:100%; overflow:hidden; margin-top:60px; }
+.yearWrap img {vertical-align:top; }
+.yearWrap .year {float:left; }
+.yearWrap .year h4 {margin-bottom:20px; }
+.yearWrap ul.yearHistory {width:410px; float:right; }
+.yearWrap ul.yearHistory li {background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; margin-bottom:20px; padding-bottom:20px; }
+.yearWrap ul.yearHistory li.end {background:none; margin:0; padding:0; }
+
+
+/* sanck50 */
+p.snack50Desc {width:100%; padding:50px 0 20px 0; }
+p.snackPara {margin-bottom:40px; }
+ol.snackList li {margin-bottom:10px; position:relative; }
+ol.snackList li span.goProject {display:block; margin:-17px 0 0 160px; }
+
+.chocopieStory {width:100%; overflow:hidden; border-bottom:1px solid #ff7a83; margin-top:40px; padding-bottom:60px; }
+.chocopieStory h4,
+.chocopieHistory h4 {margin-bottom:25px; }
+.chocopieStory p {margin-bottom:50px; } 
+.chocopieStory dl {width:306px; margin-bottom:30px; }
+.chocopieStory dl dt {margin-bottom:20px; }
+.chocopieStory dl.list01,
+.chocopieStory dl.list03 {float:left; }
+.chocopieStory dl.list02,
+.chocopieStory dl.list04 {float:right; }
+.chocopieStory dl.list05 {width:100%; clear:both; }
+.chocopieStory dl.list05 table {width:50%; float:left; table-layout:fixed; border-right:1px solid #e0e0e0; border-bottom:1px solid #e0e0e0; }
+.chocopieStory dl.list05 table.end {border-right:none; }
+.chocopieStory dl.list05 table th {height:20px; background:#f0f0f0; vertical-align:middle; }
+.chocopieStory dl.list05 table td {text-align:center; vertical-align:top; padding-bottom:9px; }
+.chocopieStory dl.list05 table tr.first td {padding:9px 0; }
+
+.chocopieHistory {width:100%; margin-top:40px; } 
+.chocopieHistory dl {width:100%; margin-bottom:30px; }
+.chocopieHistory dl dt {margin-bottom:22px; }
+.chocopieHistory dl.list01 {background:url(http://www.orionworld.com/images/company/bg_chocopie_history01.gif) no-repeat right top; }
+.chocopieHistory dl.list02 {background:url(http://www.orionworld.com/images/company/bg_chocopie_history02.gif) no-repeat right top; }
+.chocopieHistory dl.list03 {background:url(http://www.orionworld.com/images/company/bg_chocopie_history03.gif) no-repeat right top; }
+.chocopieHistory dl.list04 {background:url(http://www.orionworld.com/images/company/bg_chocopie_history04.gif) no-repeat right top; }
+.chocopieHistory dl.list05 {background:url(http://www.orionworld.com/images/company/bg_chocopie_history05.gif) no-repeat right top; }
+.chocopieHistory dl.list06 {height:322px; background:url(http://www.orionworld.com/images/company/bg_chocopie_history06.gif) no-repeat left bottom; }
+
+/* orion business */
+.orionBusiSubmain {width:100%; margin-top:40px; }
+.orionBusiSubmain h4 {margin-bottom:25px; }
+.orionBusiSubmain ul {width:100%; overflow:hidden; }
+.orionBusiSubmain ul li {float:left; }
+.orionBusiSubmain img {vertical-align:top; }
+.orionBusiSubmain .entertainment {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot03.gif) repeat-x left bottom; padding-bottom:50px; }
+.orionBusiSubmain .globalBusi {width:100%; margin-top:40px; }
+.orionBusiSubmain .globalBusi ul li {display:inline; margin-right:20px; }
+.orionBusiSubmain .globalBusi ul li.end {margin-right:0; }
+/* entertainment */
+.entertainmentWrap {width:100%; margin-top:36px; }
+.entertainmentWrap h4 {margin-bottom:34px }
+.entertainmentWrap img {vertical-align:top; }
+.entertainmentWrap dt {margin-bottom:10px; }
+.entertainmentWrap .topParaBox {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding-bottom:61px; }
+.entertainmentWrap .bottomParaBox {width:100%; margin-top:40px; } 
+.entertainmentWrap .bottomParaBox dd {width:100%; margin-bottom:16px; }
+.entertainmentWrap .bottomParaBox ul {width:100%; overflow:hidden; margin-top:26px; }
+.entertainmentWrap .bottomParaBox ul li {float:left; }
+
+.entertainmentWrap2 {width:100%;}
+.entertainmentWrap2 img {vertical-align:top; }
+.entertainmentWrap2  {width:100%; overflow:hidden; }
+.entertainmentWrap2 .nationalFlag {float:left; }
+.entertainmentWrap2 .entertainmentIntro {width:401px; float:right; }
+.entertainmentWrap2 .entertainmentIntro h4 {float:left; margin-bottom:14px; }
+.entertainmentWrap2 .entertainmentIntro .enter_homepage{float:left; padding-top:8px; padding-left:5px;}
+.entertainmentWrap2 .entertainmentIntro p {margin-bottom:14px; }
+.entertainmentWrap  p.contents {padding-top:44px; }
+.entertainmentWrap .entertainmentInfoList {padding-top:35px; }
+.entertainmentWrap .entertainmentInfoList dl {margin-bottom:28px; }
+.entertainmentWrap .entertainmentInfoList dl dt {margin-bottom:16px; }
+
+/* 쇼박스 배급현황 테이블 */
+.entertainmentInfoList table.showbox_present{color:#666; line-height:1.4em;}
+.entertainmentInfoList table.showbox_present strong{color:#4c4c4c;}
+.entertainmentInfoList table.showbox_present td.bg_Gray{background-color:#faf9f7;}
+
+#entertainment_toto{background:url(http://www.orionworld.com/images/company/bg_toto.gif) no-repeat right 210px;}
+
+.megabox_title{border-bottom:1px solid #ff7a83; padding-bottom:50px;}
+.entertainmentInfoList2{width:100%;}
+.entertainmentInfoList2 dl{padding:22px 0 19px 0; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom;}
+.entertainmentInfoList2 dl dd{padding-left:55px;}
+.entertainmentInfoList2 dl dd.mega_img{padding-top:19px;}
+.entertainmentInfoList2 dl.mega_end{border-bottom:1px solid #ff7a83; padding-bottom:31px; background:none;}
+
+
+/* global business */
+.globalBusiWrap {width:100%; margin-top:42px; }
+.globalBusiWrap img {vertical-align:top; }
+.globalBusiWrap p {margin-bottom:30px; }
+.globalBusiWrap .topParaBox {width:100%; background:url(http://www.orionworld.com/images/common/bg_dot02.gif) repeat-x left bottom; padding-bottom:7px; }
+.globalBusiWrap .bottomParaBox {margin-top:35px; }
+
+.globalCountryWrap {width:100%; margin-top:40px; }
+.globalCountryWrap img {vertical-align:top; }
+.globalCountryWrap .countryIntroWrap {width:100%; overflow:hidden; }
+.globalCountryWrap .countryIntroWrap .nationalFlag {float:left; }
+.globalCountryWrap .countryIntroWrap .nationalFlag img {border:1px solid #d3d3d3; }
+.globalCountryWrap .countryIntroWrap .countryIntro {width:434px; float:right; }
+.globalCountryWrap .countryIntroWrap .countryIntro h4 {margin-bottom:14px; }
+.globalCountryWrap .countryIntroWrap .countryIntro h4 a img {vertical-align:bottom; }
+.globalCountryWrap .countryIntroWrap .countryIntro p {margin-bottom:14px; }
+.globalCountryWrap  p.contents {padding-top:40px; }
+.globalCountryWrap  .countryInfoList {padding-top:50px; }
+.globalCountryWrap  .countryInfoList dl {margin-bottom:20px; }
+.globalCountryWrap  .countryInfoList dl dt {margin-bottom:7px; }
+
+#china {background:url(http://www.orionworld.com/images/company/bg_china.gif) no-repeat right 187px; }
+#russia {background:url(http://www.orionworld.com/images/company/bg_russia.gif) no-repeat right 305px; }
+#vietnam {background:url(http://www.orionworld.com/images/company/bg_vietnam.gif) no-repeat right 305px; }
+
+/* cyber factory */
+.cyberFactoryWrap {width:643px; position:relative; margin:80px auto 0; text-align:right;  }
+.cyberFactoryWrap .cyberTab {width:100%; overflow:hidden; text-align:right; margin-bottom:-5px; }
+.cyberFactoryWrap .cyberTab li {display:inline; }
+.cyberFactoryWrap .facotryViewFlash {margin-top:-113px; position:relative; z-index:-1; }
+.cyberFactoryWrap .facotryViewFlash span.backWhite {width:336px; height:86px; background:#ffffff; position:absolute; left:0; top:2px; }
+.cyberFactoryWrap a.cyber01 {width:228px; height:190px; position:absolute; left:101px; top:100px; display:block; }
+.cyberFactoryWrap a.cyber01 img {width:228px; height:190px; }
+.cyberFactoryWrap a.cyber02 {width:243px; height:213px; display:block; position:absolute; left:48px; top:330px;  }
+.cyberFactoryWrap a.cyber02 img {width:243px; height:213px; }
+.cyberFactoryWrap a.cyber03 {width:237px; height:223px; display:block; position:absolute; right:55px; top:211px; }
+.cyberFactoryWrap a.cyber03 img {width:237px; height:223px; }
+
+.cyberFactoryWrap a.factory01 {width:187px; height:151px; display:block; position:absolute; left:66px; top:137px; }
+.cyberFactoryWrap a.factory01 img {width:187px; height:151px; }
+.cyberFactoryWrap a.factory02 {width:155px; height:148px; display:block; position:absolute; left:268px; top:185px; }
+.cyberFactoryWrap a.factory02 img {width:155px; height:148px; }
+.cyberFactoryWrap a.factory03 {width:155px; height:179px; display:block; position:absolute; right:36px; top:258px; }
+.cyberFactoryWrap a.factory03 img {width:155px; height:179px; }
+.cyberFactoryWrap a.factory04 {width:201px; height:197px; display:block; position:absolute; left:233px; top:347px; }
+.cyberFactoryWrap a.factory04 img {width:201px; height:197px; }
+.cyberFactoryWrap a.factory05 {width:175px; height:155px; position:absolute; left:60px; top:304px; }
+.cyberFactoryWrap a.factory05 img {width:175px; height:155px; }
+
+/* stock holder Contents */
+
+
+
+
+
+
+
+
+
+
+
